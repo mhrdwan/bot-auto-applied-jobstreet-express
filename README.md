@@ -30,7 +30,7 @@ Deskripsi singkat proyek disini.
 6. Masukkan value `jora_user_session_token` yang sudah di copy tadi
 
 
-7. Kemudian buka file `carijob.js` isikan url dari jobstreet exprees yang kalian cari , contohnya "https://id.jobstreetexpress.com/j?sp=search&trigger_source=serp&q=it&l=Jakarta"
+7. Kemudian buka file `carijob.js` isikan url dari jobstreet exprees yang kalian cari , contohnya https://id.jobstreetexpress.com/j?sp=search&trigger_source=serp&q=it&l=Jakarta
 
 
 8. Jalankan Script
