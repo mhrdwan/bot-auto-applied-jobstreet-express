@@ -21,7 +21,7 @@ Deskripsi singkat proyek disini.
 3. Buka https://id.jobstreetexpress.com/ login seperti biasa
 
 
-4. Buka devtools / ctrl + shift + c lalu ke application => cookies (cari jora_user_session_token dan copy valuenya)
+4. Buka devtools / ctrl + shift + c lalu ke application => cookies (cari `jora_user_session_token` dan copy valuenya)
 
    
 5. Masuk ke folder bot-auto-applied-jobstreet-express buka file `cookies.json`
